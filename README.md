@@ -1,2 +1,2 @@
-# ucenje
+# Učenje
 Repo za moje ucenje
